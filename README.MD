@@ -1,0 +1,1 @@
+[![thaiduc01](dino.gif)](https://www.facebook.com/profile.php?id=100056666569529)
