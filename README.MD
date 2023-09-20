@@ -2,6 +2,6 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driverog&layout=compact&theme=tokyonight&hide_border=true&hide=css&count_private=true)](https://github.com/driverog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiduc01&layout=compact&theme=tokyonight&hide_border=true&hide=css&count_private=true)](https://github.com/thaiduc01)
 
 <div/>
