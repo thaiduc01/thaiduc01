@@ -11,7 +11,7 @@
 </a>
 <br/>
 **Languages** 
-<a href="https://github.com/callicoder">
+<a href="https://github.com/thaiduc01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiduc01&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
 
 <div>
