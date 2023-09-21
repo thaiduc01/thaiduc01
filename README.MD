@@ -10,7 +10,10 @@
   <img alt="Rajeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-**Languages**  
+**Languages** 
+<a href="https://github.com/callicoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
+</a>
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiduc01&layout=compact&theme=tokyonight&hide_border=true&hide=css&count_private=true)](https://github.com/thaiduc01)
 <div/>
