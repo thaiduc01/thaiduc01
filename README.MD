@@ -13,8 +13,4 @@
 **Languages** 
 <a href="https://github.com/thaiduc01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiduc01&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
-
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiduc01&layout=compact&theme=tokyonight&hide_border=true&hide=css&count_private=true)](https://github.com/thaiduc01)
-<div/>
 </a>
