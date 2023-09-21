@@ -1,6 +1,7 @@
-## Hey there, I'm Rajeev Singh! 👋
+## Hey there, I'm DUC TD! 👋
 
 [![thaiduc01](dino.gif)](https://www.facebook.com/profile.php?id=100056666569529)
+
 <a href="https://stackoverflow.com/users/4837440/rajeev-kumar-singh">
   <img alt="Rajeev's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a> &nbsp;
