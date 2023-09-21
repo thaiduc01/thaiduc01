@@ -12,7 +12,7 @@
 <br/>
 **Languages and Tools:**  
 <a href="https://github.com/callicoder">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=callicoder&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaiduc01&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiduc01&layout=compact&theme=tokyonight&hide_border=true&hide=css&count_private=true)](https://github.com/thaiduc01)
 <div/>
