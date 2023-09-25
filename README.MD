@@ -1,5 +1,3 @@
-## Hey there, I'm DUC TD! 👋
-
 [![thaiduc01](dino.gif)](https://www.facebook.com/profile.php?id=100056666569529)
 <br/>
 <br/>
