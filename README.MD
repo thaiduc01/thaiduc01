@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <a href="https://www.facebook.com/profile.php?id=100056666569529">
-  <img alt="Rajeev's Facebook" width="22px" src="http://www.w3.org/2000/svg" />
+  <img width="22px" src="http://www.w3.org/2000/svg" />
 </a>  &nbsp;
 <a href="https://instagram.com/d29_ic?igshid=NzZlODBkYWE4Ng==">
   <img alt="Rajeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
