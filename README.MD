@@ -66,3 +66,8 @@
 <img src="https://raw.githubusercontent.com/thaiduc01/thaiduc01/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thaiduc01/count.svg?"  />
+</div
+
